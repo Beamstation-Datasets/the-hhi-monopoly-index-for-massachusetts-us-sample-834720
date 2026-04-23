@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Massachusetts, US
 
-> Free BeamStation sample export with 77 rows and masked direct-contact fields.
+> Free BeamStation sample export with 70 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `834720` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 779 records |
-| Free sample size | 77 records (9.88%) |
-| Last export | 2026-04-15T06:09:57.488404+00:00 |
+| Full dataset size | 708 records |
+| Free sample size | 70 records (9.89%) |
+| Last export | 2026-04-22T12:06:30.641671+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-massachusetts-us-sample-834720/releases/download/sample-latest/beamstation_834720_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
