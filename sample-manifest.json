@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7cde9435-1193-4256-8ab3-4c6928bb7d0c",
+  "export_job_id": "3a091b00-9c53-4d2c-a904-79b6eab315dd",
   "id_short": 834720,
-  "published_at": "2026-04-19T07:14:26Z",
+  "published_at": "2026-04-23T07:12:34Z",
   "repo_name": "the-hhi-monopoly-index-for-massachusetts-us-sample-834720",
   "sample_asset_name": "beamstation_834720_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/834720/beamstation_834720_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 77,
-  "sample_sha256": "f2beb90799b2e5be00f43fa632c0f893fff05c24109f4297b33f06cccb343185",
-  "sample_size_bytes": 313325,
-  "total_records": 779
+  "sample_records": 70,
+  "sample_sha256": "420201d298f7903cb1d0aff34d39e5b532a67758c93b42e1ce577b813c4544df",
+  "sample_size_bytes": 286880,
+  "total_records": 708
 }
